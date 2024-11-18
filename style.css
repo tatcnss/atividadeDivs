@@ -1,0 +1,38 @@
+body {
+    font-size: 0;
+    }
+
+div {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+.vermelha {
+    background-color: red;
+}
+
+#cantos {
+    background-color: red;
+    border: 2px solid black;
+}
+
+#cantos:hover {
+    background-color: aqua;
+}
+
+.azul {
+    background-color: rgb(14, 70, 255);
+}
+
+
+.verde {
+    background-color: rgb(48, 177, 48);
+}
+
+.amarela {
+    background-color: yellow;
+}
